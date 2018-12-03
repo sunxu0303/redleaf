@@ -1,0 +1,173 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+	text-decoration: none;
+ }
+ body{
+	font-size: 12px;
+	text-align: center;
+	line-height:24px;
+	 }
+#box div #footer {
+	background-image: url(imges/dowm2.gif);
+	background-position: right;
+	height: 34px;
+	width: 1003px;
+}
+#box div #footer {
+	background-image: none;
+}
+h4{
+	font-size:14px;
+	color:#FF9602;
+	text-align:left;
+}
+li{
+	font-size: 12px;
+	text-decoration: none;
+	background-image: url(../imges/left_bg.jpg);
+	list-style-image: url(../imges/dian.gif);
+}
+p{
+	font-size: 12px;
+	color: #666666;
+	line-height: 20px;
+	font-weight: 500;
+}
+h1{
+	font-size:14px;
+	color:#F00;
+	text-align:left;
+}
+h4{
+	color:#666666;
+	font-size:14px;
+}h2{
+	background-image:url(../imges/red.jpg);
+	height:29px;
+	text-align:center;
+	color:#FFF;
+	line-height:28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@charset "utf-8";
+
+#box {
+	width: 1003px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#top {
+	float: left;
+	width: 1003px;
+}
+#logo {
+	float: left;
+	width: 365px;
+	height: 124px;
+}
+#nva {
+	float: left;
+	width: 638px;
+	height: 39px;
+}
+
+#main {
+	float: left;
+	width: 986px;
+}
+#siderbar {
+	float: left;
+	width: 200px;
+	padding-right: 10px;
+}
+#history {
+	float: left;
+	width: 686px;
+}
+#main1 {
+	float:left;
+	width: 686px;
+	padding-top:20px;
+}
+#footer {
+	width: 1003px;
+	height: 34px;
+	background-image: url(imges/dowm2.gif);
+	background-position: right;
+}
+#nav{
+	float:left;
+	width:638px;
+	height:39px;
+	background-image:url(../imges/annu1.jpg);
+	background-repeat:repeat-x;	
+}
+#nav li{
+	float: left;
+	height: 39px;
+	width: 88px;
+	list-style-type: none;
+	list-style-image: none;
+}
+#nav li a{
+	text-decoration:none;
+	background-image:url(../imges/annu2.jpg);
+	background-repeat:no-repeat;
+	text-align:center;
+	display:block;
+	padding-top:12px;
+	padding-bottom:12px;
+}
+#nav li a:link,#nav li a:visited{
+	text-decoration:none;
+	display:block;
+	color:#000;
+	font-weight:bold;
+}
+#nav li a:hover{
+	background-repeat: no-repeat;
+	color: #999;
+	list-style-image: none;
+}
+#main_1 {
+	float:left;
+	width: 180px;
+	padding-left:111px;
+}
+
+#banner{
+		float:left;
+	height:85px;
+	width:638px;
+	background-image:url(../imges/banner.gif);
+	background-repeat:no-repeat;
+	}
+#div {
+	background-image: url(../imges/siderphoto.jpg);
+	height: 289px;
+}
+#w{
+	padding-top:26cm;
+}

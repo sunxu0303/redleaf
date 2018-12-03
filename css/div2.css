@@ -1,0 +1,98 @@
+@charset "utf-8";
+
+#box {
+	width: 1003px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#top {
+	float: left;
+	width: 1003px;
+}
+#logo {
+	float: left;
+	width: 365px;
+	height: 124px;
+}
+#banner{
+		float:left;
+	height:85px;
+	width:638px;
+	background-image:url(../imges/banner.gif);
+	background-repeat:no-repeat;
+	}
+#nva {
+	float: left;
+	width: 638px;
+	height: 39px;
+}
+
+#main {
+	float: left;
+	width: 986px;
+}
+#siderbar {
+	float: left;
+	width: 200px;
+	padding-right:10px;
+}
+#history {
+	float: left;
+	width: 686px;
+}
+
+#main3 {
+	float: left;
+	width: 686px;
+}
+#footer {
+	width: 1003px;
+	height: 34px;
+	background-image: url(imges/dowm2.gif);
+	background-position: right;
+}
+#nav{
+	float:left;
+	width:638px;
+	height:39px;
+	background-image:url(../imges/annu1.jpg);
+	background-repeat:repeat-x;	
+}
+#nav li{
+	float: left;
+	height: 39px;
+	width: 88px;
+	list-style-type: none;
+	background-image: none;
+	list-style-image: none;
+}
+#nav li a{
+	text-decoration:none;
+	background-image:url(../imges/annu2.jpg);
+	background-repeat:no-repeat;
+	text-align:center;
+	display:block;
+	padding-top:12px;
+	padding-bottom:12px;
+}
+#nav li a:link,#nav li a:visited{
+	text-decoration:none;
+	display:block;
+	color:#000;
+	font-weight:bold;
+}
+#nav li a:hover{
+	background-image: url(imges/annu2.jpg);
+	background-repeat: no-repeat;
+	color: #999;
+	list-style-image: none;
+	list-style-type: none;
+}
+#main_1 {
+	float:left;
+	width: 180px;
+	padding-left:111px;}
+	
+.w{
+	padding-top:10.5cm;
+}
